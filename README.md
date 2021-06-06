@@ -11,6 +11,9 @@
   Power supply
   <li>https://bit.ly/3z9Av4Y</li>
   <br>
+  Adapter Micro USB 2.0 B - USB C V/Z
+  <li>https://bit.ly/3v6DvMB</li>
+  <br>
   Cooling set
   <li>https://bit.ly/34WRh9P</li>
   <br>
@@ -39,3 +42,9 @@
   <li>https://bit.ly/3il1PY2</li>
   <br>
 </ul>
+
+![1](https://user-images.githubusercontent.com/85439920/120942795-7bd4d900-c72b-11eb-84ca-3154a250ee96.jpg)
+
+<br>
+
+![2](https://user-images.githubusercontent.com/85439920/120942841-bfc7de00-c72b-11eb-90ed-24683d11b92f.jpg)
