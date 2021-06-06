@@ -1,5 +1,5 @@
 # RaspberryPi4
-# list of components and config.txt of my "lab" 🥼
+# list of components of my "lab" 🥼
 
 <ul> 
   Raspberry Pi 4 Model B - 4GB RAM
