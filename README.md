@@ -32,6 +32,12 @@
   Rainbow HAT
   <li>https://bit.ly/3x46ZMu</li>
   <br>
+  Bluetooth-speaker
+  <li>https://bit.ly/2SWFINq</li>
+  <br>
+   Bluetooth-mic
+  <li>https://bit.ly/3wU9T6O</li>
+  <br>
   Operating system - Raspbian
   <li>https://bit.ly/3cmAuRC</li>
   <br>
