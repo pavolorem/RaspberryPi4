@@ -48,9 +48,3 @@
   <li>https://bit.ly/3il1PY2</li>
   <br>
 </ul>
-
-![1](https://user-images.githubusercontent.com/85439920/120942795-7bd4d900-c72b-11eb-84ca-3154a250ee96.jpg)
-
-<br>
-
-![2](https://user-images.githubusercontent.com/85439920/120942841-bfc7de00-c72b-11eb-90ed-24683d11b92f.jpg)
